@@ -1,4 +1,4 @@
-(TOC figure.png)
+![](TOC figure.png)
 
 
 License
