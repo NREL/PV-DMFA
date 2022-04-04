@@ -1,5 +1,4 @@
-![](TOC figure.png)
-
+![alt text](https://github.com/NREL/PV-DMFA/blob/main/images/TOC%20figure.png)
 
 License
 =======
